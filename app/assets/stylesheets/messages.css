@@ -49,7 +49,7 @@
   color: white;
 }
 
-.chat {
+.main-chat {
   background-color: #ffffff;
   width: calc(100% - 300px);
 }
